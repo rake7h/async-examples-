@@ -1,2 +1,2 @@
 # async-examples-
-Ajax asynchronous example 
+Ajax asynchronous example with waiting state.
